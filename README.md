@@ -1,0 +1,2 @@
+# ImageHosting
+PicGo Github ImageHosting
